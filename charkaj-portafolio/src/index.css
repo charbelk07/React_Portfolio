@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --light: white;
+  --dark: gray;
+  --darker: #202020;
+
+}
+
+html, 
+body {
+  min-height: 100%
+}
