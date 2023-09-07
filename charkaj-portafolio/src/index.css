@@ -16,3 +16,15 @@ body {
   min-height: 100%
 }
 
+.wrapper {
+  background-color: var(--darker);
+  color: var(--light);
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px; 
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+main{
+  min-height: calc(100vh - 250px);
+}
